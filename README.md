@@ -7,3 +7,5 @@ Then we can implement the CNN in the previous structure by running the "#3 put t
 After, we try to see our model graphically with Tensorboard so we run #4. But we come to see that our model overfits.
 So we try to optimize our model by running #5. 
 Finally we tryt to test if our model works by testing it with whatever image we want(which includes a cat or a dog) as see how that goes !!!(for that we run #6, i have even put some photos i have found on web, but you can put your images there.
+
+###download X.pickle from this link: https://we.tl/t-cY0bHYScwj
