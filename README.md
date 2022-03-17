@@ -9,3 +9,5 @@ So we try to optimize our model by running #5.
 Finally we try to test if our model works by testing it with whatever image we want(which includes a cat or a dog) as see how that goes !!!(for that we run #6, i have even put some photos i have found on web, but you can put your images there.
 
 ###download X.pickle from this link: https://we.tl/t-cY0bHYScwj.
+
+-------------------------You can download the data from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data ----------------------------------------
