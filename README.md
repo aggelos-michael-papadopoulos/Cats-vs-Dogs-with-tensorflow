@@ -10,4 +10,4 @@ Finally we try to test if our model works by testing it with whatever image we w
 
 ###download X.pickle from this link: https://we.tl/t-cY0bHYScwj.
 
------------You can download the data from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data ------------
+You can download the data from Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data.
